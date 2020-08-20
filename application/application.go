@@ -1,4 +1,4 @@
-package bootstrap
+package application
 
 import (
 	"github.com/ahmadhdr/go-fiber-tutorial/routes"

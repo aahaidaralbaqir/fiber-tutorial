@@ -1,9 +1,9 @@
 package main
 
 import (
-	"github.com/ahmadhdr/go-fiber-tutorial/bootstrap"
+	"github.com/ahmadhdr/go-fiber-tutorial/application"
 )
 
 func main() {
-	bootstrap.Start()
+	application.Start()
 }
